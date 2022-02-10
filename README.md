@@ -1,4 +1,4 @@
-# 📦 Test App Serivce
+# 📦 Test App Service
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dileepabandara/testappservice_xyz?color=red&label=repository%20size)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dileepabandara/testappservice_xyz?color=red)
@@ -9,7 +9,7 @@
 
 ## ✨ About
 
-This website is created for testin purposes.
+This website is created for testing purposes.
 
 ## 👨‍💻 Developed By
 
